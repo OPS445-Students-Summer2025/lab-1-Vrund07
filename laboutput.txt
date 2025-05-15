@@ -41,11 +41,11 @@ OK
 OPS445 Lab Report - System Information for running ./CheckLab1.py
 =================================================================
     User login name: linuxmint
-    Git Email: padariyavrund961@gmail.com
+    Git Email: vspadariya@myseneca.ca
     Linux system name: vspadariya
     Python executable: /usr/bin/python3
     Python version:  3.10.12 (main, Feb  4 2025, 14:57:36) [GCC 11.4.0]
     OS Platform: linux
     Working Directory: /home/linuxmint/ops445/lab1
-    Start at: Wed May 14 14:53:57 2025
+    Start at: Thu May 15 13:26:33 2025
 =================================================================
